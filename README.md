@@ -176,6 +176,8 @@ check to see if node is installed:
 
 ## Install ipyleaflet
 
+https://github.com/jupyter-widgets/ipyleaflet
+
 1.  Install ipyleaflet from the home directory
 
 `conda install -c conda-forge ipyleaflet`
